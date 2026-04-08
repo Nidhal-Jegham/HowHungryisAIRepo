@@ -1,3 +1,6 @@
+The dataset is provided for research and informational use only. Commercial use, redistribution, or inclusion in commercial products or services requires written permission or a commercial license.
+
+
 # How Hungry is AI? — Dashboard, Code, and Data (HowHungryisAIDashboard)
 
 This repository powers the **“How Hungry is AI?”** dashboard and provides the **code + data release** accompanying our paper on *inference-phase* (operational) environmental footprints of LLMs.
